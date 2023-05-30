@@ -11,4 +11,4 @@ The project for the digital assignment 3 is basic library management system impl
 ## To run this program, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/library-management-system.git
+   git clone [https://github.com/your-username/library-management-system.git](https://github.com/gmsai12345/OOPS-Project.git)
